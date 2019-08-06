@@ -1,5 +1,9 @@
 # vue-practice
 
+## Introduction
+```
+关于vue cli脚手架和组件之间传值的练习
+```
 ## Project setup
 ```
 npm install
